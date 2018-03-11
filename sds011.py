@@ -27,7 +27,7 @@ while n<3:
 		pm_25 = readings[0]/10.0
 		pm_10 = readings[1]/10.0
 		# ignoring the checksum and message tail
-		print(datetime.datetime.now(), "PM 2.5:", pm_25, "μg/m^3  PM 10:", pm_10, "μg/m^3.")
+		print datetime.datetime.now(), "PM 2.5:", pm_25, "μg/m^3  PM 10:", pm_10, "μg/m^3."
 		n = n+1
 
 
