@@ -1,4 +1,5 @@
 Fichier de log de mesures de particules fines, Val de Marne, débutant en janvier 2017
+Utilisation d'un capteur SDS011 connecté en USB à un PC sous Linux Mint
 2017-01-23 21:37:11.509778 PM 2.5: 32.9 μg/m^3  PM 10: 43.9 μg/m^3
 2017-01-23 21:37:12.513029 PM 2.5: 33.0 μg/m^3  PM 10: 44.0 μg/m^3
 2017-01-23 21:37:13.506209 PM 2.5: 33.0 μg/m^3  PM 10: 44.1 μg/m^3
